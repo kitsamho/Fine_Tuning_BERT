@@ -1,4 +1,4 @@
-# Fine_Tuning_BERT
+Fine Tuning BERT
 ----
 In this exercise, you will have to create a BERT model and then train it on the CoLA dataset which has a list of sentences that are either grammatically correct or incorrect. The data loading and model training, testing logic are already included in your code. You will need to fetch the data, and use a pretrained BERT model to solve a classification task.
 

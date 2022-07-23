@@ -7,9 +7,9 @@ In this workspace you have GPU to help train the model but it is best practice t
 Here are the steps you need to do to complete this exercise:
 
 - Data has already been downloaded from here into the cola_public directory.
-Create a tokenizer for the BERT Model
-Create the BERT Model and the optimizer for the model
-Save all your work and then ENABLE the GPU
-Run the Package Installations.
-Run the file to make sure that the model is training properly.
-If it works, remember to DISABLE the GPU before moving to the next page.
+- Create a tokenizer for the BERT Model
+- Create the BERT Model and the optimizer for the model
+- Save all your work and then ENABLE the GPU
+- Run the Package Installations.
+- Run the file to make sure that the model is training properly.
+- If it works, remember to DISABLE the GPU before moving to the next page.
